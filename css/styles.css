@@ -248,9 +248,25 @@ a:hover {
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
   color: inherit;
 }
-h1
+h1,h3
 {
   color: white;
+}
+h3
+{
+  font-size: 99%;
+}
+h2
+{
+  color: #64a19d;
+}
+li
+{
+  color: gray;
+}
+.linkslinks
+{
+  color: gray;
 }
 #hints
 {
